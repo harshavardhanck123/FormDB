@@ -1,0 +1,12 @@
+  
+  th{
+    padding: 8px;
+    text-align: left;
+    border-right: 1px solid #ddd; 
+  } 
+  body{
+    background-color: aliceblue;
+  }
+  .style{
+    margin: 0;
+  }
